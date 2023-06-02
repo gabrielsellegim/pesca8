@@ -1,0 +1,37 @@
+header{
+    background-color: rgb(255, 255, 255);
+    color: rgb(143, 22, 22);
+    display: flex;
+    justify-content: space-around;
+}
+.cabesalho{
+    width: 20%;
+    display: flex;
+}
+.entra {
+    display: inline-block;
+    margin: 0 10px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.imd {
+text-align: center;
+}
+
+.img{
+width: 50%;
+padding: 40px 30px 30px 40px;
+}
+
+.todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%  ;
+    padding: 150px 40px 30px ;
+}
+.iml{
+    width:  140px;
+    padding: 40px;
+
+}
